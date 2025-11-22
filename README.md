@@ -1,5 +1,5 @@
 ```md
-🎧 Spotify Clone – React Music Player
+# 🎧 Spotify Clone – React Music Player
 
 ![Spotify Clone Banner](./banner.png)
 
