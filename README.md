@@ -1,5 +1,5 @@
 ```md
-# 🎧 Spotify Clone – React Music Player
+## 🎧 Spotify Clone – React Music Player
 
 ![Spotify Clone Banner](./banner.png)
 
@@ -90,7 +90,7 @@ spotify-clone/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/spotify-clone.git
+git clone https://github.com/awais-ali-dev/spotify-clone.git
 cd spotify-clone
 ````
 
@@ -114,31 +114,6 @@ npm run build
 
 ---
 
-## 🌐 Deployment (GitHub Pages)
-
-1. Install `gh-pages`:
-
-```bash
-npm install gh-pages --save-dev
-```
-
-2. Add to `package.json`:
-
-```json
-"homepage": "https://yourusername.github.io/spotify-clone",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-```
-
-3. Deploy:
-
-```bash
-npm run deploy
-```
-
----
 
 ## 🤝 Contributing
 
@@ -150,14 +125,6 @@ Feel free to fork, improve the UI, add new features, or enhance the audio player
 ## ⭐ Show Your Support
 
 If you like this project, give it a **star ⭐** on GitHub!
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
 
 ---
 
