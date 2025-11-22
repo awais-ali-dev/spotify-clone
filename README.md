@@ -11,16 +11,6 @@
 A fully responsive **Spotify-inspired music player** built with **React**, **Vite**, **TailwindCSS**, and the **Context API**.  
 Enjoy playlists, album views, modern audio controls, and smooth navigation — all wrapped in a clean Spotify-style interface.
 
----
-
-## 🚀 Live Demo
-
-[View Live Demo](https://yourusername.github.io/spotify-clone/)
-
-![Demo](./demo.gif)
-
-
----
 
 ## 🧩 Features
 
